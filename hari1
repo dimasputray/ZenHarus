@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link href="assets/img/ico.png" rel="shortcut icon">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Zeniora</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+</head>
+<body style="background-color: #32438e">
+	<!--Navbar-->
+	<nav class="navbar navbar-default">
+		<div class="container">
+			<div class="navbar-header">
+		      <a class="navbar-brand row" href="#">
+		        <img alt="Brand" src="assets/img/logo.png" height="100%">
+		      </a>
+		    </div>
+		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		    	<ul class="nav navbar-nav navbar-right">
+		    	<li><a href="#">Lorem</a></li>
+		    	<li><a href="#">Lorem</a></li>
+		    	<li><a href="#">Lorem</a></li>
+		    	<li><a href="#">Lorem</a></li>
+		    	<li><a href="#">Lorem</a></li>
+		    	<li><a href="#">Lorem</a></li>
+		    	<li><a href="#">Lorem</a></li>
+		    </ul>
+		    </div>
+		</div>
+	</nav>
+	<!--Header-->
+	<section class="header" style="background-color: transparent;height: 85vh;">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-sm-12 col-md-12 col-lg-12" style="text-align: center;padding-top: 81px;">
+					<img src="assets/img/logo1.png" max-height="100%" max-widht="100%">
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--events-->
+	<section class="events" style="background-color: white; height: 100vh;">
+		<div class="container">
+			<h2 style="text-align: center; padding-top: 81px;">Events</h2>
+			<hr color="#4785f5" size="7" width="120px">
+			<div class="row" style="text-align: center;">
+				<div class="col-md-3"><h3><a href="#">Lorem</a></h3></div>
+				<div class="col-md-3"><h3><a href="#">Lorem</a></h3></div>
+				<div class="col-md-3"><h3><a href="#">Lorem</a></h3></div>
+				<div class="col-md-3"><h3><a href="#">Lorem</a></h3></div>
+			</div>
+		</div>
+	</section>
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+
+</body>
+</html>
